@@ -6,7 +6,7 @@
 
 A 100% HTML5 portfolio built with semantic tags, accessibility best practices, and zero CSS/JS. Features a working Formspree contact form, resume download, and multi-page navigation. Demonstrates core web fundamentals.
 
-**Live Demo:** [View Portfolio](http://127.0.0.1:5500/PROJECTS%202025/Portfolio%20(HTML)/index.html)
+**Live Demo:** [View Portfolio](https://semantic-html-portfolio.netlify.app/)
 
 ## ✨ Key Features
 
